@@ -84,20 +84,27 @@ footer {
     margin: 350px;
     width: 60%;
     height: 500px;
-    /* border: solid 2px tomato; */
     display: inline-table;
 }
 
 #picture {
     width: 30%;
     height: 100%;
-    /* border: solid 2px tomato; */
     float: left;
     ;
 }
 
 #textosobre {
-    /* border: solid 2px tomato; */
     width: 100%;
     text-align: right;
+}
+
+#linkedin {
+    max-width: 72px;
+}
+
+#contato {
+    text-align: center;
+    margin: 350px;
+    width: 60%;
 }

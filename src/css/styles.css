@@ -106,5 +106,7 @@ footer {
 #contato {
     text-align: center;
     margin: 350px;
-    width: 60%;
+    border: solid 1px gray;
+    height: 230px;
+    width: 520;
 }
